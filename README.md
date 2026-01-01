@@ -43,7 +43,7 @@ This app helps users track daily expenses, categorize them, and see total spendi
 
 ## 🌐 Live Demo
 
-👉 
+👉  https://indraniray1612-blip.github.io/expense-tracker/
 
 
 ---
